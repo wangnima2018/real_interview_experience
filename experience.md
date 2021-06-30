@@ -4,3 +4,6 @@
 
 3 https://www.glassdoor.com/Interview/Convert-string-1234-into-a-number-without-using-library-functions-QTN_966993.htm
 
+4 https://leetcode.com/discuss/interview-experience/1148348/GOOGLE-Ist-ROUND-TEST-ENGINEER
+
+5 https://leetcode.com/discuss/interview-experience/343777/Google-or-L4-Test-Engineer-or-Bay-Area-or-July-2019-Offer
